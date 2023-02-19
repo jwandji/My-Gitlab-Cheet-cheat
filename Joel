@@ -1,0 +1,18 @@
+ 101  git
+           Creat the branch
+  102  git clone https://github.com/devopseasylearning/S4-projects.git
+  103  git clone https://gitlab.com/session03/group-01/argo-dubois.git
+  104  git clone git@gitlab.com:session03/group-01/argo-dubois.git
+  105  git clone https://gitlab.com/session03/group-01/argo-dubois.git
+  106  ls
+  107  cd argo-dubois/
+  108  ls
+  109  vim dep.yaml
+  110  git status
+  111  git add .
+  112  git status
+  113  git commit -m " changed image to latest"
+  114  git push
+  115  git clone https://gitlab.com/session03/group-01/argo-dubois.git
+  116  git checkout -b joel_test1
+
